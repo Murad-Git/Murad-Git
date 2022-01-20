@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Murad
 - 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate with company searching someone on Junior position
+- 💞️ I’m looking to collaborate with company searching someone at Junior position
 - 📫 How to reach me www.linkedin.com/in/murad-kos-69b743135
 
 <!---
