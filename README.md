@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Murad and I am from Poland
 - 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Javascript and planning to learn React
-- 💞️ I’m looking to collaborate with company searching someone at Junior position
 - 📫 Please feel free to reach me www.linkedin.com/in/murad-kos-69b743135
 
 <!---
