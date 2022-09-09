@@ -49,8 +49,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Murad-Git&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Git&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Murad-Git&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Git&layout=compact&langs_count=10&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Murad-Git/Murad-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
