@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&lines=Hi+there!;Welcome+to+my+github+page+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 My name is Murad Kos. I am interested in getting Junior Front End position.
 
