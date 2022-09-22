@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://welcomeportfolio.netlify.app/](https://welcomeportfolio.netlify.app/)
 
-- 🌱 I’m currently deeping my knowledge in React,TS and NextJS.
+- 🌱 I’m currently deepening my knowledge in React,TS and NextJS.
 
 - I'm open to junior front end position. I am located in Warsaw, Poland.
 
