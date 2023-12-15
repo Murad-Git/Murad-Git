@@ -18,9 +18,6 @@ I'm Murad! I'm a beginner **Frontend Developer**:seedling: that seeks for oportu
 
 ---
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/216dugnajuurbi2rnxkaahz3q)
-
----
 ### 💻 Languages, Frameworks, Tools
 
 #### Main
@@ -56,6 +53,10 @@ I'm Murad! I'm a beginner **Frontend Developer**:seedling: that seeks for oportu
 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Murad-Git&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Git&layout=compact&langs_count=10&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/216dugnajuurbi2rnxkaahz3q)
+
 
 <!---
 Murad-Git/Murad-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
